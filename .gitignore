@@ -1,8 +1,12 @@
+.vscode
+build
+build_cmake
+*.img
 CMakeCache.txt
 CMakeFiles
 CMakeScripts
 Testing
-Makefile
+# Makefile
 cmake_install.cmake
 install_manifest.txt
 compile_commands.json
